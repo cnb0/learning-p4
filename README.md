@@ -1,5 +1,7 @@
 # [learning-p4](https://p4.org/)
 
+## [p4 language spec](https://p4.org/p4-spec/docs/P4-16-v1.1.0-spec.pdf)
+
 - Overview of P4 Programming Features and Architecture
 
       Function blocks and interfaces
